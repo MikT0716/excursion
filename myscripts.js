@@ -1,3 +1,3 @@
 function myFunction() {
-  alert("I am an alert box!");
+  alert("Jajjj hát itt még nincs semmi Andrew barátocskám");
 }
