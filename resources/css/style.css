@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+
 * {
   background-color: black;
   text-align: center;
@@ -5,14 +7,13 @@
 
 h1,
 h2 {
-  font-family: Verdana;
+  font-family: "Gloria Hallelujah", Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
 }
